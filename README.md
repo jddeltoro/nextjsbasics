@@ -1,0 +1,2 @@
+# nextjsbasics
+Explore NextJs Powers
